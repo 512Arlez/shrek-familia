@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "..\\01 bases"
+		},
+		{
+			"path": "..\\05-cache with NF"
+		},
+		{
+			"path": "..\\Cache plano"
+		},
+		{
+			"path": "..\\02-service-worker"
+		},
+		{
+			"path": "..\\03-ciclo-de-vida-sw"
+		},
+		{
+			"path": "..\\Cache_Update"
+		},
+		{
+			"path": "..\\Network_With_Cache_Fallback"
+		},
+		{
+			"path": "..\\cache-storage"
+		},
+		{
+			"path": "..\\06_indexDB"
+		},
+		{
+			"path": "..\\7-pounchDB"
+		},
+		{
+			"path": "..\\Cache_Race"
+		},
+		{
+			"path": "..\\Navegacion"
+		},
+		{
+			"path": "..\\08-puchdb"
+		},
+		{
+			"path": "..\\examenp2"
+		},
+		{
+			"path": "..\\05-Chat para pasar_edit"
+		},
+		{
+			"path": "..\\..\\Practica_PWA2_Equipo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\10 server"
+		}
+	],
+	"settings": {}
+}

@@ -1,4 +1,13 @@
+var url = window.location.href;
+var swLocation='/shrek-familia/sw.js';
+
 if(navigator.serviceWorker)
+{
+    if(url.incluides('localhost'))
+        swLocation='/sw.js';
+    
+        navigator.serviceWorker.register(swLocation);
+}
     navigator.serviceWorker.register('/sw.js');
 // Referencias de jQuery
 

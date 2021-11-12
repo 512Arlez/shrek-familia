@@ -3,7 +3,7 @@ var swLocation='/shrek-familia/sw.js';
 
 if(navigator.serviceWorker)
 {
-    if(url.incluides('localhost'))
+    if(url.includes('localhost'))
         swLocation='/sw.js';
     
         navigator.serviceWorker.register(swLocation);

@@ -51,7 +51,7 @@ self.addEventListener('activate', e=>{
 });
 
 self.addEventListener ('fetch', e=>{
-    caches.match(e.request).then(res =>{//cache respaldo internet
+    const respuesta= caches.match(e.request).then(res =>{//cache respaldo internet
         if(res){
             return res;
         }            

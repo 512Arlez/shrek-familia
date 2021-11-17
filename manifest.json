@@ -7,24 +7,28 @@
 "theme_color": "#FFFFFF",
 "orientation": "landscape",
 "icons": [{
-    "src": "img/icons/s_shrek(3).ico",
-    "type": "image/ico",
-    "sizes": "64x64"
+    "src": "img/icons/S_shrek.png",
+    "type": "image/png",
+    "sizes": "16x16"
     }, {
-    "src": "img/icons/s_shrek(2).ico",
-    "type": "image/ico",
-    "sizes": "48x48"
-    }, {
-    "src": "img/icons/s_shrek(1).ico",
-    "type": "image/ico",
+    "src": "img/icons/S_shrek(1).png",
+    "type": "image/png",
     "sizes": "32x32"
     }, {
-    "src": "img/icons/s_shrek(4).ico",
-    "type": "image/ico",
+    "src": "img/icons/S_shrek(2).png",
+    "type": "image/png",
+    "sizes": "48x48"
+    }, {
+    "src": "img/icons/S_shrek(3).png",
+    "type": "image/png",
+    "sizes": "64x64"
+    }, {
+    "src": "img/icons/S_shrek(4).png",
+    "type": "image/png",
     "sizes": "128x128"
     }, {
-        "src": "img/icons/s_shrek(5).ico",
-        "type": "image/ico",
-        "sizes": "256x256"
+    "src": "img/icons/S_shrek(5).png",
+    "type": "image/png",
+    "sizes": "256x256"
     }]
 }

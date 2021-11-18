@@ -4,7 +4,7 @@
 "start_url": "index.html",
 "background_color": "#1D4AF0",
 "display": "standalone",
-"orientation": "portrait",
+"orientation": "landscape",
 "theme_color": "#FFFFFF",
 "icons": [{
     "src": "img/icons/S_shrek.png",
